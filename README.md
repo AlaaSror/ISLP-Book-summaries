@@ -3,6 +3,8 @@
 Concise, structured summaries for **An Introduction to Statistical Learning (ISLP)**.
 Each chapter covers the core concepts, important notes & common pitfalls, and guided questions.
 
+You can find the book here: https://www.statlearning.com/
+
 ## Chapters
 
 | # | Chapter | Key Topics |
